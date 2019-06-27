@@ -1,0 +1,253 @@
+2018-12-27 17:59:19  {"productCode":"QUICK_WAP_PAY","body":"课程购买","subject":"订单编号:1545904759_10","out_trade_no":"1545904759_10","total_amount":300,"timeout_express":"1m"}
+2018-12-27 17:59:19  response: 'https://openapi.alipay.com/gateway.do?alipay_sdk=alipay-sdk-php-20161101&app_id=2018100861585640&biz_content=%7B%22productCode%22%3A%22QUICK_WAP_PAY%22%2C%22body%22%3A%22%E8%AF%BE%E7%A8%8B%E8%B4%AD%E4%B9%B0%22%2C%22subject%22%3A%22%E8%AE%A2%E5%8D%95%E7%BC%96%E5%8F%B7%3A1545904759_10%22%2C%22out_trade_no%22%3A%221545904759_10%22%2C%22total_amount%22%3A300%2C%22timeout_express%22%3A%221m%22%7D&charset=UTF-8&format=json&method=alipay.trade.wap.pay&notify_url=http%3A%2F%2Fchangjiang.book.kaimusoft.xyz%2Fpay%2Falipay_notify&return_url=http%3A%2F%2Fchangjiang.book.kaimusoft.xyz%2Fpay%2Falipay_return&sign=tDGl9my7bLF4E09uLvMsKojBZs%2F3jLXK0Z21b50ENjB53XTtBg7sZrMbY%2BHzULI4Q6tsSYjNDzf%2F7JN%2FjGQUHC8vV6B0hWj8qmfHMizqkec6gb5637QQdOOOxdW3nxL8Xr2s4lWFDT2Ij%2BL9bUsmGZPCfHWxRqg%2BlyT56nVDzc%2Fe52oiBsu%2BjTGHfDtmWEP%2F8cX3AeWAYIxjtckSKpTSG6rCOQIGEFe3XdEcScw1n3b6bgxn%2BgZswaZlIzLALmaA4U6CCAfKFTD2nWz1SRtX6w3l1n8%2F8LzMxg3a76v1XHAhSXd6wIx42nenfNzsFtSOKN21QhkOIE9O0HQ0K3RTjg%3D%3D&sign_type=RSA2&timestamp=2018-12-27+17%3A59%3A19&version=1.0'
+2018-12-28 10:11:07  {"productCode":"QUICK_WAP_PAY","body":"课程购买","subject":"订单编号:1545963067_15","out_trade_no":"1545963067_15","total_amount":300,"timeout_express":"1m"}
+2018-12-28 10:11:08  response: 'https://openapi.alipay.com/gateway.do?alipay_sdk=alipay-sdk-php-20161101&app_id=2018100861585640&biz_content=%7B%22productCode%22%3A%22QUICK_WAP_PAY%22%2C%22body%22%3A%22%E8%AF%BE%E7%A8%8B%E8%B4%AD%E4%B9%B0%22%2C%22subject%22%3A%22%E8%AE%A2%E5%8D%95%E7%BC%96%E5%8F%B7%3A1545963067_15%22%2C%22out_trade_no%22%3A%221545963067_15%22%2C%22total_amount%22%3A300%2C%22timeout_express%22%3A%221m%22%7D&charset=UTF-8&format=json&method=alipay.trade.wap.pay&notify_url=http%3A%2F%2Fchangjiang.book.kaimusoft.xyz%2Fpay%2Falipay_notify&return_url=http%3A%2F%2Fchangjiang.book.kaimusoft.xyz%2Fpay%2Falipay_return&sign=UCs9VFe7XveN7vLJ1AVqXlONudwR%2BTii2mD%2Bl3%2BvrVx5lAeucUUbsDkUP5jClOJRUcb8lcyFds801S7Wzkxjm4u86tI9idsqDIFrjR7TwMYGkQdYNO78N6ufUV%2FO5VEeKbC2hv3bp5hdTUlj5dsA66TyGUzu%2FxYZy4UoqPalYg2UoIWw%2BW7dd5ZX%2FHhnEKYcRLr9Ei7VZpnQ%2BKUApcJxF0EQSY3qMnnZCBZWkaItmMZcPRhzLTgn3br2pBFen%2FckhoM765JTv9xoXM4rkP5nWFPRAIs29%2BpMpeyZgSfffBFBKS5UXgR0kP95cXm6u0OMNfXbNqrNYeUoxky3HyN5Zg%3D%3D&sign_type=RSA2&timestamp=2018-12-28+10%3A11%3A07&version=1.0'
+2018-12-28 10:12:43  {"productCode":"QUICK_WAP_PAY","body":"课程购买","subject":"订单编号:1545963067_15","out_trade_no":"1545963067_15","total_amount":300,"timeout_express":"1m"}
+2018-12-28 10:12:43  response: 'https://openapi.alipay.com/gateway.do?alipay_sdk=alipay-sdk-php-20161101&app_id=2018100861585640&biz_content=%7B%22productCode%22%3A%22QUICK_WAP_PAY%22%2C%22body%22%3A%22%E8%AF%BE%E7%A8%8B%E8%B4%AD%E4%B9%B0%22%2C%22subject%22%3A%22%E8%AE%A2%E5%8D%95%E7%BC%96%E5%8F%B7%3A1545963067_15%22%2C%22out_trade_no%22%3A%221545963067_15%22%2C%22total_amount%22%3A300%2C%22timeout_express%22%3A%221m%22%7D&charset=UTF-8&format=json&method=alipay.trade.wap.pay&notify_url=http%3A%2F%2Fchangjiang.book.kaimusoft.xyz%2Fpay%2Falipay_notify&return_url=http%3A%2F%2Fchangjiang.book.kaimusoft.xyz%2Fpay%2Falipay_return&sign=rEICIaTlYUEMUL9olRjZNqBbG3X21uDJqiPRFDqvmKbGAJk0A83bWIe%2B%2FdFVdjn4cukrHE%2BF5wYU%2Br%2BmLt93lepSllV5bHTkOMa988bQ6uaFGMaALKdpXztZBGaB9I3NrFWS%2ByFUM9enAVRBkUb1IAb9D%2Bw7UOOAx3r6o8IlwUjAayIlAW5gjkiDFob%2FXOOX2aHsZSFtdLGk4Ogd%2F555%2B5G6F%2BzHvNPzSp46V60ul2YvWAMY8spT3jMOQwMaaaUfwDkpIFME1%2FkRReM3n0fECjRLRgmicoTU%2F983zl16NGsLOItr%2FCmBpZO2Q1Fitr2PXxnnTEdM9kIo%2FysxDpmqLA%3D%3D&sign_type=RSA2&timestamp=2018-12-28+10%3A12%3A43&version=1.0'
+2019-03-14 10:14:52  response: stdClass::__set_state(array(
+   'alipay_data_dataservice_bill_downloadurl_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'isv.invalid_arguments',
+     'sub_msg' => '入参不合法',
+  )),
+   'sign' => 'NBn2t7ntw241r0QwkmTGCklPpQjEsqhWX2JIAM3tdZopRn57W3dXHw9dV0E8H1bJCSa7qlF812fP8yND1NZusSZ2e2Z0Rz3IZrE54ceTkVPyqqSkirmgO50I0GtsIbRJYUGHDdGpZERZ9cMIwJ9BeW634QiFqauycBKIfg1h1AiEKcSnglqBK09AvjBkbQgD63w7CrrBJCeY61UA1zZGCqy8koOzdEE753gDvsdDNOwEGPcF+F0k0iTYvzwJFl57R0ortXX+rFqP6vxwMsZUvc3eIiFLrLInuK9GQNIYEU98NXWup0QHEEFK0Wfw84etTruMGewGiz8VYTJ86fObxg==',
+))
+2019-03-14 10:18:00  response: stdClass::__set_state(array(
+   'alipay_data_dataservice_bill_downloadurl_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'bill_download_url' => 'http://dwbillcenter.alipay.com/downloadBillFile.resource?bizType=trade&userId=20884310501879840156&fileType=csv.zip&bizDates=20190301&downloadFileName=20884310501879840156_20190301.csv.zip&fileId=%2Ftrade%2F20884310501879840156%2F20190301.csv.zip&timestamp=1552529882&token=2f9cb6f4bf7eb8aae29791518d73be27',
+  )),
+   'sign' => 'awHXprAl39EtZBGf36sx+EBTka+mofuxPWQED0jRkwfEktNdQTaQHQgYBUjdYL8PBqrnnW2HI528rfNmfX05AWg70RiyrU16fS/o0ArxC4RI63oZnpCrK6MTKM0ejJ7RB4Whk+mfcyAnodXaVtrpH6neH8TNNUQE7YohZ6pviW3clc74DOVPatX5M0EFO2qRq0oBJG81Pp5vDdiDg6VD7Nsy9ltHsfgtTkonWwMsA4ogiBj0gebSH/k8Qw/j/EBlzfU+If04I7KsGN6hv1+KC8R+spGQUXe09KZPwW9/Gw/UmmpulmpK9iz6FlxBXgJeJg/VislzvJARVoTcInFFOA==',
+))
+2019-03-14 10:19:36  response: stdClass::__set_state(array(
+   'alipay_data_dataservice_bill_downloadurl_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'isp.bill_not_exist',
+     'sub_msg' => '账单不存在',
+  )),
+   'sign' => 'K93Bruy5qKyLz5kIWms9DTBXdedGYqDIiY4Rx+V0gYzpxzxiUijiYvWL8MjWbbgdlSwv6YQjPoufBwE1XbyOb1S/1PfwLNNF9fRZKL6EiXnVgSgYcp6TeQKsz+Ip6GOoYd1uf+VzYTd2Q+peVc5xOZS/OEHBnJuHE63etHlEl8yZofubRVXbO3s6caq5r7A/USYQEp0iU0ksl5bhBtCH+BdLEBboeWYj3obHR4zzn6VL1e9PJu2/oBF2X+yqnQ7DavCSPqpdiFrfmgxyhDRgEidBKJmCp1K4zjjcwkuqbUtM7AsMYNSO5T4NiEFkGUe/+UUxNeSKZAxsp1sSwOPGuQ==',
+))
+2019-03-14 10:19:45  response: stdClass::__set_state(array(
+   'alipay_data_dataservice_bill_downloadurl_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'isv.invalid_arguments',
+     'sub_msg' => '入参不合法',
+  )),
+   'sign' => 'NBn2t7ntw241r0QwkmTGCklPpQjEsqhWX2JIAM3tdZopRn57W3dXHw9dV0E8H1bJCSa7qlF812fP8yND1NZusSZ2e2Z0Rz3IZrE54ceTkVPyqqSkirmgO50I0GtsIbRJYUGHDdGpZERZ9cMIwJ9BeW634QiFqauycBKIfg1h1AiEKcSnglqBK09AvjBkbQgD63w7CrrBJCeY61UA1zZGCqy8koOzdEE753gDvsdDNOwEGPcF+F0k0iTYvzwJFl57R0ortXX+rFqP6vxwMsZUvc3eIiFLrLInuK9GQNIYEU98NXWup0QHEEFK0Wfw84etTruMGewGiz8VYTJ86fObxg==',
+))
+2019-03-14 10:22:06  response: stdClass::__set_state(array(
+   'alipay_data_dataservice_bill_downloadurl_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'bill_download_url' => 'http://dwbillcenter.alipay.com/downloadBillFile.resource?bizType=trade&userId=20884310501879840156&fileType=csv.zip&bizDates=201902&downloadFileName=20884310501879840156_201902.csv.zip&fileId=%2Ftrade%2F20884310501879840156%2F201902.csv.zip&timestamp=1552530128&token=d96a144496d3a40edf57a8e7167b68b2',
+  )),
+   'sign' => 'e/snhxQfrm7HEKITRLY0gHZW4/vbUgWAxHe19LErPxcmhRASXD7BKdqQT9ZsMLj4rM3CEKuIn7jyTO8CBE7fwN0r6JLpSj+oGR9mq2d4KxyfgmCfg25ykrq6cUircD41iDqvXkyieX2VUx3hURHeSOaUBCYRIR4ahx64h/0U44k+RlWtyFf8csqAjkJRPVGOSxLgaryCC6lsskCWFm01jSbxz4JK9bJVwna+///C1uLMUVd5TAgIilAGWanYrMPZaEP2N9nUR7brvIz2yyDenHvEehUgIMCcZ6ITgg1kIkMKWpU8tfBiCwyX20AXY5woJx6O+G4YdmE2Xyu0zietJQ==',
+))
+2019-03-14 10:22:55  response: stdClass::__set_state(array(
+   'alipay_data_dataservice_bill_downloadurl_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'bill_download_url' => 'http://dwbillcenter.alipay.com/downloadBillFile.resource?bizType=trade&userId=20884310501879840156&fileType=csv.zip&bizDates=201902&downloadFileName=20884310501879840156_201902.csv.zip&fileId=%2Ftrade%2F20884310501879840156%2F201902.csv.zip&timestamp=1552530177&token=51664c1e6195fac1bfd29c2f3c27d7e6',
+  )),
+   'sign' => 'auDFzEnj0dqzu0AIyygRN7G5Td5xrA4qdm/0VpFjxLMl8TuHUb+YXExVqZKwhsf2yzEX4TQiAE1qRhVqrtwsGbEtu8if1CKEO9K07Z1T9989p0cjDXVgUMg+brwNButA/ijM2Hw3AGmf3grpIMIMM/4ONOiKT9E7xvovYF2ws2WCTRrHOcBsaOTpcCzkSGPWRsI9qY1U2c6UaOrqCtTaXIhKKKtHJlPG0JAfBdbeSM/drMkKNRtrywdMJ3fu432WU8U2xEhnRT8riq5Rl7oPM1xcONS7rAS/K1DJywE/e1T7kAKuKEtLLX0LMnGl4MKgSgitVliLboSoGADoLPY5DQ==',
+))
+2019-03-14 10:31:56  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'cGJ00w22NOpybYQnC/PUNgQDH3t2wX+BDgMx0YnBd7LTjGbpoFWPqcaQTPhdD82gwMoP0b1DRuYtbOcyBQQCk4qi78ZQgxqoNIHo0fcVTqLjbR6gp03AdZN/KdKoAJJFKpMBQQWorTJ1rCypTeDKHQlwrFX87mOFPLGGl7PDugPMJ/Iu4UdRgkNFTW5g9l30IU1McI3WBUExN0M7zusYbGMxRU7wo67gojaNKGAN4JjEfPJ007nD06PTBsoI9z9tlrCdAaCIKwISV3hAa2h6hWWNBfqqHe0YEEB/pJHXtVZZZl+sIbRZIFAOUEyWD6JpuqjJI9Z2djrQPKKSqevPow==',
+))
+2019-03-14 10:33:35  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'buyer_pay_amount' => '0.00',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+  )),
+   'sign' => 'Fo+Z9nE2lciXRiGbrwQVTMFAZgn/8d4k6n91PtoW0NiAPaAeTG0gG4wVsifeBBtTnhIPNuKasu11VvGWTl97iCnOYSGTxz5KL9Wmk3ItnYmx+6SQFvNWF8I8tdE6Tu+kaW391jrqmtNdJLGMIba0UH1xc20k21Jrssv6Fh7zRhJ5kRAmpS9C+94xhCsrORBx5vD+kXxFU0SznKfKP72QHgQgWdYH2F3jzcLmaL+s1JQnNx6rS+ESeEG44EaVnuTfU9LFt1n5vVDrKA8rJmJq/zZMIqBmzQ2+7HoSEn9cTrc+7pRpV7/8HKabZ4KPFeykB8GkPa8rQ++JnBaYlIg+qw==',
+))
+2019-03-14 10:33:51  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'buyer_pay_amount' => '0.00',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+  )),
+   'sign' => 'Fo+Z9nE2lciXRiGbrwQVTMFAZgn/8d4k6n91PtoW0NiAPaAeTG0gG4wVsifeBBtTnhIPNuKasu11VvGWTl97iCnOYSGTxz5KL9Wmk3ItnYmx+6SQFvNWF8I8tdE6Tu+kaW391jrqmtNdJLGMIba0UH1xc20k21Jrssv6Fh7zRhJ5kRAmpS9C+94xhCsrORBx5vD+kXxFU0SznKfKP72QHgQgWdYH2F3jzcLmaL+s1JQnNx6rS+ESeEG44EaVnuTfU9LFt1n5vVDrKA8rJmJq/zZMIqBmzQ2+7HoSEn9cTrc+7pRpV7/8HKabZ4KPFeykB8GkPa8rQ++JnBaYlIg+qw==',
+))
+2019-03-14 10:34:07  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'cGJ00w22NOpybYQnC/PUNgQDH3t2wX+BDgMx0YnBd7LTjGbpoFWPqcaQTPhdD82gwMoP0b1DRuYtbOcyBQQCk4qi78ZQgxqoNIHo0fcVTqLjbR6gp03AdZN/KdKoAJJFKpMBQQWorTJ1rCypTeDKHQlwrFX87mOFPLGGl7PDugPMJ/Iu4UdRgkNFTW5g9l30IU1McI3WBUExN0M7zusYbGMxRU7wo67gojaNKGAN4JjEfPJ007nD06PTBsoI9z9tlrCdAaCIKwISV3hAa2h6hWWNBfqqHe0YEEB/pJHXtVZZZl+sIbRZIFAOUEyWD6JpuqjJI9Z2djrQPKKSqevPow==',
+))
+2019-03-14 10:34:43  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'buyer_pay_amount' => '0.00',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+  )),
+   'sign' => 'Fo+Z9nE2lciXRiGbrwQVTMFAZgn/8d4k6n91PtoW0NiAPaAeTG0gG4wVsifeBBtTnhIPNuKasu11VvGWTl97iCnOYSGTxz5KL9Wmk3ItnYmx+6SQFvNWF8I8tdE6Tu+kaW391jrqmtNdJLGMIba0UH1xc20k21Jrssv6Fh7zRhJ5kRAmpS9C+94xhCsrORBx5vD+kXxFU0SznKfKP72QHgQgWdYH2F3jzcLmaL+s1JQnNx6rS+ESeEG44EaVnuTfU9LFt1n5vVDrKA8rJmJq/zZMIqBmzQ2+7HoSEn9cTrc+7pRpV7/8HKabZ4KPFeykB8GkPa8rQ++JnBaYlIg+qw==',
+))
+2019-03-14 10:35:24  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'buyer_logon_id' => '139******85',
+     'buyer_pay_amount' => '0.00',
+     'buyer_user_id' => '2088812811713860',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+     'send_pay_date' => '2019-03-14 08:35:39',
+     'total_amount' => '150.00',
+     'trade_no' => '2019031422001413860595249024',
+     'trade_status' => 'TRADE_SUCCESS',
+  )),
+   'sign' => 'bsdqaJWv8PH1UmQ90lx+zgEjUcMwlOR05dWrh2nEisOF7btayOjRO7r8rh7Mq1cmkoiE3lfnCWfNxi68Rh5HL0FZdIORPitLz02RyQjT6B5GOJDN5WmUv/tGsyyPaS3Iv1Z/8xLueTvJfSVFeC58pxsWk4OKwA7Vuc/1sm7rmAvzYwnQ8GNwM8uxg7reQ9Q7P8dYWolDWSTyVDE4/W+FcQA6W7QFtleIwD7KVvVDOp3XbT9TY1xvrNjioEO/l2fBszvRipS2SF4nRJCILOFcMIrZB3/WgFs4kNh8DgOJGFC1l99rqGhX7/RHcv/aMF33QpySzwKgxCOdqDZ1BSclYA==',
+))
+2019-03-14 10:37:59  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'buyer_pay_amount' => '0.00',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_11281',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+  )),
+   'sign' => 'AqdTMbWur2mc69TwBWDjdc7QTrgRmV4ptrSh5wfURU/RSjNYiBjFKJMsnGOslapmFxuYs++zM3oHLWSCsRcETv8A4IBsL6FgaHWAvzIIAQzb/IRmjx1P17kFKhTIPV1NpUqJ63faqai1NzPACK3/s+j5nVMYe29UZ4ZyVzlcLIJlWFweuKRDt89F49U9cjvq791eHHWkI8IAk+P2umQaZLSlmLgqtyOn5T/tUYbho5L8yDDpraOWAUNl2JtvWwj8q38UmB3rXQ+LFIZ0vMvncKJny9gH0Lrw5n6PMrvgJPvJMVWWmo/m1y/6x5zAkxP+2LM8LtJw0KD3+D+SJbpe5g==',
+))
+2019-03-14 10:38:20  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'buyer_logon_id' => '139******85',
+     'buyer_pay_amount' => '0.00',
+     'buyer_user_id' => '2088812811713860',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+     'send_pay_date' => '2019-03-14 08:35:39',
+     'total_amount' => '150.00',
+     'trade_no' => '2019031422001413860595249024',
+     'trade_status' => 'TRADE_SUCCESS',
+  )),
+   'sign' => 'bsdqaJWv8PH1UmQ90lx+zgEjUcMwlOR05dWrh2nEisOF7btayOjRO7r8rh7Mq1cmkoiE3lfnCWfNxi68Rh5HL0FZdIORPitLz02RyQjT6B5GOJDN5WmUv/tGsyyPaS3Iv1Z/8xLueTvJfSVFeC58pxsWk4OKwA7Vuc/1sm7rmAvzYwnQ8GNwM8uxg7reQ9Q7P8dYWolDWSTyVDE4/W+FcQA6W7QFtleIwD7KVvVDOp3XbT9TY1xvrNjioEO/l2fBszvRipS2SF4nRJCILOFcMIrZB3/WgFs4kNh8DgOJGFC1l99rqGhX7/RHcv/aMF33QpySzwKgxCOdqDZ1BSclYA==',
+))
+2019-03-14 10:40:19  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'buyer_logon_id' => '139******85',
+     'buyer_pay_amount' => '0.00',
+     'buyer_user_id' => '2088812811713860',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+     'send_pay_date' => '2019-03-14 08:35:39',
+     'total_amount' => '150.00',
+     'trade_no' => '2019031422001413860595249024',
+     'trade_status' => 'TRADE_SUCCESS',
+  )),
+   'sign' => 'bsdqaJWv8PH1UmQ90lx+zgEjUcMwlOR05dWrh2nEisOF7btayOjRO7r8rh7Mq1cmkoiE3lfnCWfNxi68Rh5HL0FZdIORPitLz02RyQjT6B5GOJDN5WmUv/tGsyyPaS3Iv1Z/8xLueTvJfSVFeC58pxsWk4OKwA7Vuc/1sm7rmAvzYwnQ8GNwM8uxg7reQ9Q7P8dYWolDWSTyVDE4/W+FcQA6W7QFtleIwD7KVvVDOp3XbT9TY1xvrNjioEO/l2fBszvRipS2SF4nRJCILOFcMIrZB3/WgFs4kNh8DgOJGFC1l99rqGhX7/RHcv/aMF33QpySzwKgxCOdqDZ1BSclYA==',
+))
+2019-03-14 10:41:01  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'buyer_logon_id' => '139******85',
+     'buyer_pay_amount' => '0.00',
+     'buyer_user_id' => '2088812811713860',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+     'send_pay_date' => '2019-03-14 08:35:39',
+     'total_amount' => '150.00',
+     'trade_no' => '2019031422001413860595249024',
+     'trade_status' => 'TRADE_SUCCESS',
+  )),
+   'sign' => 'bsdqaJWv8PH1UmQ90lx+zgEjUcMwlOR05dWrh2nEisOF7btayOjRO7r8rh7Mq1cmkoiE3lfnCWfNxi68Rh5HL0FZdIORPitLz02RyQjT6B5GOJDN5WmUv/tGsyyPaS3Iv1Z/8xLueTvJfSVFeC58pxsWk4OKwA7Vuc/1sm7rmAvzYwnQ8GNwM8uxg7reQ9Q7P8dYWolDWSTyVDE4/W+FcQA6W7QFtleIwD7KVvVDOp3XbT9TY1xvrNjioEO/l2fBszvRipS2SF4nRJCILOFcMIrZB3/WgFs4kNh8DgOJGFC1l99rqGhX7/RHcv/aMF33QpySzwKgxCOdqDZ1BSclYA==',
+))
+2019-03-14 10:41:11  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'buyer_pay_amount' => '0.00',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_11281',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+  )),
+   'sign' => 'AqdTMbWur2mc69TwBWDjdc7QTrgRmV4ptrSh5wfURU/RSjNYiBjFKJMsnGOslapmFxuYs++zM3oHLWSCsRcETv8A4IBsL6FgaHWAvzIIAQzb/IRmjx1P17kFKhTIPV1NpUqJ63faqai1NzPACK3/s+j5nVMYe29UZ4ZyVzlcLIJlWFweuKRDt89F49U9cjvq791eHHWkI8IAk+P2umQaZLSlmLgqtyOn5T/tUYbho5L8yDDpraOWAUNl2JtvWwj8q38UmB3rXQ+LFIZ0vMvncKJny9gH0Lrw5n6PMrvgJPvJMVWWmo/m1y/6x5zAkxP+2LM8LtJw0KD3+D+SJbpe5g==',
+))
+2019-03-14 10:52:03  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'buyer_logon_id' => '139******85',
+     'buyer_pay_amount' => '0.00',
+     'buyer_user_id' => '2088812811713860',
+     'invoice_amount' => '0.00',
+     'out_trade_no' => '1552523665_1128',
+     'point_amount' => '0.00',
+     'receipt_amount' => '0.00',
+     'send_pay_date' => '2019-03-14 08:35:39',
+     'total_amount' => '150.00',
+     'trade_no' => '2019031422001413860595249024',
+     'trade_status' => 'TRADE_SUCCESS',
+  )),
+   'sign' => 'bsdqaJWv8PH1UmQ90lx+zgEjUcMwlOR05dWrh2nEisOF7btayOjRO7r8rh7Mq1cmkoiE3lfnCWfNxi68Rh5HL0FZdIORPitLz02RyQjT6B5GOJDN5WmUv/tGsyyPaS3Iv1Z/8xLueTvJfSVFeC58pxsWk4OKwA7Vuc/1sm7rmAvzYwnQ8GNwM8uxg7reQ9Q7P8dYWolDWSTyVDE4/W+FcQA6W7QFtleIwD7KVvVDOp3XbT9TY1xvrNjioEO/l2fBszvRipS2SF4nRJCILOFcMIrZB3/WgFs4kNh8DgOJGFC1l99rqGhX7/RHcv/aMF33QpySzwKgxCOdqDZ1BSclYA==',
+))
